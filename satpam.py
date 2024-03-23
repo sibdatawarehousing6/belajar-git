@@ -1,3 +1,10 @@
+"""
+Ini adalah script untuk membangun kelas Satpam dengan fitur:
+1. Menjaga TPU
+2. Istirahat
+3. Lembur
+"""
+
 from warga import Warga
 
 class Satpam(Warga):
